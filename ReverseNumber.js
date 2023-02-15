@@ -12,7 +12,6 @@ function reverseNum(n) {
 }
 // NOTE: Please do not modify this function
 function main() {
-  let n = parseInt(readLine(), 10);
   let result = reverseNum(n);
   console.log(result);
 }
